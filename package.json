@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-localstorage": "^3.0.5",
+    "nodeman": "^1.1.2"
+  },
+  "name": "js_code",
+  "version": "1.0.0",
+  "main": "my_javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun-kumar7798/js_code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arun-kumar7798/js_code/issues"
+  },
+  "homepage": "https://github.com/Arun-kumar7798/js_code#readme",
+  "description": ""
+}
